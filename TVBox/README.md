@@ -8,8 +8,12 @@
 
 ## 配置地址 简易设定流程：
 * 我的 --> 设置 --> 配置地址 (底下二选一)
-	1. 请输入 https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json --> 确定
-	2. CH猫友免墙地址 请输入 https://freed.yuanhsing.cf/TVBox/meowcf.json --> 确定
+    1. 请输入 https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json --> 确定
+    2. CH猫友免墙地址 请输入 https://freed.yuanhsing.cf/TVBox/meowcf.json --> 确定
+    3. https://cdn.staticaly.com/gh/ykk648/freed/master/TVBox/sta.json
+    4. https://fastly.jsdelivr.net/gh/ykk648/freed@master/TVBox/jsd.json
+
+	
 
 ## 切换数据源
 * 我的 --> 设置 --> 首页数据源

@@ -1,5 +1,5 @@
 {
-"spider":"clan://TVBox/spider/XBiubiuLA4.jar",
+"spider":"https://notabug.org/Booting1538/freed/raw/notabug/TVBox/spider/XBiubiuLA4.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 "sites":[
 {"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
